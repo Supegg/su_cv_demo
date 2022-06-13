@@ -1,0 +1,4 @@
+
+
+class USBCamera():
+    pass

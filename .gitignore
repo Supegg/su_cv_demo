@@ -1,0 +1,10 @@
+# Windows metafiles
+Thumbs.db
+
+# Python bytecode
+*.pyc
+*.pyo
+
+.ipynb_checkpoints/
+.vscode/
+__pycache__
